@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m a passionate fresher Software Engineer who enjoys building clean, efficient web applications and learning new technologies. I like collaborating on full-stack projects and continuously improving my skills in frontend, backend, and databases. I believe problem-solving and debugging are just as exciting as creating new features, and I’m always curious to learn how things work behind the scenes 😄
+I’m a passionate fresher Software Engineer who enjoys building clean, efficient web applications and learning new technologies. I like collaborating on full-stack projects and continuously improving my skills in frontend, backend, and databases. I believe problem-solving and debugging are just as exciting as creating new features, and I’m always curious to learn how things work behind the scenes 😄
 
 
 ## 🌐 Socials:
