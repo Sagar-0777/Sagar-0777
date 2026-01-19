@@ -1,5 +1,5 @@
 # 💫 About Me:
-An e-commerce web application using React, Node.js, and MySQL.<br>Full-stack web projects, especially React or Node.js based applications.<br>System design basics, performance optimization, and deployment.<br>Advanced React, backend APIs, and database optimization.<br>Java, JavaScript, React, Node.js, MySQL, MongoDB and web development basics.<br>I enjoy turning ideas into working products and fixing bugs feels more satisfying than writing new code.
+’m a passionate fresher Software Engineer who enjoys building clean, efficient web applications and learning new technologies. I like collaborating on full-stack projects and continuously improving my skills in frontend, backend, and databases. I believe problem-solving and debugging are just as exciting as creating new features, and I’m always curious to learn how things work behind the scenes 😄
 
 
 ## 🌐 Socials:
